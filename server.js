@@ -6,7 +6,7 @@ const app = express()
 const port = 3000
 
 
-const connectionURL = 'mongodb+srv://devjaeger:Ghaexer610@fullstack-open.2gsqkbu.mongodb.net/rental?retryWrites=true&w=majority&appName=fullstack-open' // Change this based on your database connection
+const connectionURL = {place-your-url-here}// Change this based on your database connection
 
 
 mongoose
